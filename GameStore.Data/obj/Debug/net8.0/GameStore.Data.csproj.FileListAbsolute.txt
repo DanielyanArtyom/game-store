@@ -1,0 +1,17 @@
+/Users/artyomdanielyan/Desktop/myProjcets/game-store/GameStore.Data/bin/Debug/net8.0/GameStore.Data.deps.json
+/Users/artyomdanielyan/Desktop/myProjcets/game-store/GameStore.Data/bin/Debug/net8.0/GameStore.Data.runtimeconfig.json
+/Users/artyomdanielyan/Desktop/myProjcets/game-store/GameStore.Data/bin/Debug/net8.0/GameStore.Data.dll
+/Users/artyomdanielyan/Desktop/myProjcets/game-store/GameStore.Data/bin/Debug/net8.0/GameStore.Data.pdb
+/Users/artyomdanielyan/Desktop/myProjcets/game-store/GameStore.Data/obj/Debug/net8.0/GameStore.Data.csproj.AssemblyReference.cache
+/Users/artyomdanielyan/Desktop/myProjcets/game-store/GameStore.Data/obj/Debug/net8.0/GameStore.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artyomdanielyan/Desktop/myProjcets/game-store/GameStore.Data/obj/Debug/net8.0/GameStore.Data.AssemblyInfoInputs.cache
+/Users/artyomdanielyan/Desktop/myProjcets/game-store/GameStore.Data/obj/Debug/net8.0/GameStore.Data.AssemblyInfo.cs
+/Users/artyomdanielyan/Desktop/myProjcets/game-store/GameStore.Data/obj/Debug/net8.0/GameStore.Data.csproj.CoreCompileInputs.cache
+/Users/artyomdanielyan/Desktop/myProjcets/game-store/GameStore.Data/obj/Debug/net8.0/GameStore.Data.dll
+/Users/artyomdanielyan/Desktop/myProjcets/game-store/GameStore.Data/obj/Debug/net8.0/refint/GameStore.Data.dll
+/Users/artyomdanielyan/Desktop/myProjcets/game-store/GameStore.Data/obj/Debug/net8.0/GameStore.Data.pdb
+/Users/artyomdanielyan/Desktop/myProjcets/game-store/GameStore.Data/obj/Debug/net8.0/GameStore.Data.genruntimeconfig.cache
+/Users/artyomdanielyan/Desktop/myProjcets/game-store/GameStore.Data/obj/Debug/net8.0/ref/GameStore.Data.dll
+/Users/artyomdanielyan/Desktop/myProjcets/game-store/GameStore.Data/bin/Debug/net8.0/GameStore.Data.Common.dll
+/Users/artyomdanielyan/Desktop/myProjcets/game-store/GameStore.Data/bin/Debug/net8.0/GameStore.Data.Common.pdb
+/Users/artyomdanielyan/Desktop/myProjcets/game-store/GameStore.Data/obj/Debug/net8.0/GameStor.4D4E49D2.Up2Date

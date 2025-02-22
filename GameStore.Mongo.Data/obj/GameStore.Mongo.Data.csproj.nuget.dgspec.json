@@ -1,0 +1,124 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/artyomdanielyan/Desktop/myProjcets/game-store/GameStore.Mongo.Data/GameStore.Mongo.Data.csproj": {}
+  },
+  "projects": {
+    "/Users/artyomdanielyan/Desktop/myProjcets/game-store/GameStore.Data.Common/GameStore.Data.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/artyomdanielyan/Desktop/myProjcets/game-store/GameStore.Data.Common/GameStore.Data.Common.csproj",
+        "projectName": "GameStore.Data.Common",
+        "projectPath": "/Users/artyomdanielyan/Desktop/myProjcets/game-store/GameStore.Data.Common/GameStore.Data.Common.csproj",
+        "packagesPath": "/Users/artyomdanielyan/.nuget/packages/",
+        "outputPath": "/Users/artyomdanielyan/Desktop/myProjcets/game-store/GameStore.Data.Common/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/artyomdanielyan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/artyomdanielyan/Desktop/myProjcets/game-store/GameStore.Mongo.Data/GameStore.Mongo.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/artyomdanielyan/Desktop/myProjcets/game-store/GameStore.Mongo.Data/GameStore.Mongo.Data.csproj",
+        "projectName": "GameStore.Mongo.Data",
+        "projectPath": "/Users/artyomdanielyan/Desktop/myProjcets/game-store/GameStore.Mongo.Data/GameStore.Mongo.Data.csproj",
+        "packagesPath": "/Users/artyomdanielyan/.nuget/packages/",
+        "outputPath": "/Users/artyomdanielyan/Desktop/myProjcets/game-store/GameStore.Mongo.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/artyomdanielyan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/artyomdanielyan/Desktop/myProjcets/game-store/GameStore.Data.Common/GameStore.Data.Common.csproj": {
+                "projectPath": "/Users/artyomdanielyan/Desktop/myProjcets/game-store/GameStore.Data.Common/GameStore.Data.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MongoDB.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

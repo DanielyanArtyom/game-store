@@ -1,0 +1,36 @@
+{
+  "baseApiUrl": "http://localhost:5142/api",
+
+  "gameApiUrl": "/games/{key}",
+  "gameByIdApiUrl": "/games/find/{id}",
+  "gamesApiUrl": "/games",
+  "gamesByGenreApiUrl": "/games/{id}/genres",
+  "gamesByPublisherApiUrl": "/games/{id}/publishers",
+  "gamesByPlatformApiUrl": "/games/{id}/platforms",
+  "getGameFile": "/games/{key}/file",
+  "updateGameApiUrl": "/games",
+  "addGameApiUrl": "/games",
+  "deleteGameApiUrl": "/games/{key}",
+
+  "genreApiUrl": "/genres/{id}",
+  "genresApiUrl": "/genres",
+  "genresByGameApiUrl": "/genres/{id}/games",
+  "genresByParentApiUrl": "/genres/{parentId}/genres",
+  "updateGenreApiUrl": "/genres",
+  "addGenreApiUrl": "/genres",
+  "deleteGenreApiUrl": "/genres/{id}",
+
+  "platformApiUrl": "/platforms/{id}",
+  "platformsApiUrl": "/platforms",
+  "platformsByGameApiUrl": "/platforms/{id}/games",
+  "updatePlatformApiUrl": "/platforms",
+  "addPlatformApiUrl": "/platforms",
+  "deletePlatformApiUrl": "/platforms/{id}",
+
+  "publisherApiUrl": "/publishers/{companyName}",
+  "publishersApiUrl": "/publishers",
+  "publisherByGameApiUrl": "/publishers/{key}/games",
+  "addPublisherApiUrl": "/publishers",
+  "deletePublisherApiUrl": "/publishers/{id}",
+  "updatePublisherApiUrl": "/publishers/{id}"
+}

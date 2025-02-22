@@ -1,0 +1,9 @@
+global using AutoMapper;
+global using GameStore.Business.Interface;
+global using GameStore.Business.Model;
+global using GameStore.Business.Service;
+global using GameStore.Data.Context.Entity;
+global using GameStore.Data.Interface;
+global using GameStore.Data.Common.Search;
+global using Moq;
+global using Xunit;
